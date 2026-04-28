@@ -4,4 +4,5 @@ gut push git pull git fetch
  tyon gtif
  git push
  hhhhh
+ grjsiekgv
 git hand git pull
